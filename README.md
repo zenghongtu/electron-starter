@@ -1,3 +1,3 @@
 # electron-starter
 
-React Electron Typescript template base on electron-webpack
+Simple React+Electron+Typescript template base on electron-webpack
